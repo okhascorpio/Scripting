@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# sudo code is code layout in comments written before the actual code
 # this code displays system information
 
 # tell user that script is starting
