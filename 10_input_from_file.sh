@@ -1,6 +1,6 @@
 #! /bin/bash
 # Give file name, from which to read from, as agrument
-# eg  ./input_from_file.sh file.txt 
+# eg  ./10_input_from_file.sh 10_test.txt 
 while read line
 do 
     echo $line 
